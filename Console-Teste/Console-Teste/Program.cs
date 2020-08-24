@@ -10,7 +10,7 @@ namespace Console_Teste
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Usando GIT com VS2019");
+            Console.WriteLine("Usando GIT com VS2019 para realiza controle de versão.");
             Console.ReadKey(true);
         }
     }
